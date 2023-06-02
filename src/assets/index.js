@@ -1,6 +1,5 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
-import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
@@ -20,14 +19,13 @@ import bootstrap from "./tech/bootstrap.png"
 import una from "./company/UNA.png"
 import muni from "./company/SanPablo.png"
 
-import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import jobAplications from "./jobAplications.png"
 
 export {
   logo,
   backend,
-  creator,
   mobile,
   web,
   github,
@@ -43,7 +41,7 @@ export {
   mysql,
   una,
   muni,
-  carrent,
   jobit,
   tripguide,
+  jobAplications,
 };
